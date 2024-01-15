@@ -3,12 +3,12 @@
 - ✍🏻 I’m a writer of both the creative and technical varieties 
 - 📫 Email me at B.Magalis@outlook.com
 
-- Feel free to browse my repositories to check out my previous documentation, or click below to see specific samples.
+**Feel free to browse my repositories to check out my previous documentation, or click below to see specific samples.**
 
-- Release Notes Sample
+[Release Notes Sample](https://github.com/B-Mags/Studio-CAT-App-Documentation/blob/main/StudioCAT%20Release%20Notes%201.0.0.md)
 - Product Requirements Document Sample
 - How To Sample
-- 
+  
 
 <!---
 B-Mags/B-Mags is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
