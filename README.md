@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Brooke Magalis, @B-Mags
-- 🎓 New York University: MFA || James Madison University: BA 
-- ✍🏻 I’m a writer of both the creative and technical varieties 
-- 📫 Email me at B.Magalis@outlook.com
+👋 Hi, I’m Brooke Magalis, @B-Mags <br> 
+🎓 New York University: MFA || James Madison University: BA <br> 
+✍🏻 I’m a writer of both the creative and technical varieties <br> 
+📫 Email me at B.Magalis@outlook.com <br> 
 
 **Feel free to browse my repositories to check out my previous documentation, or click below to see specific samples.**
 
