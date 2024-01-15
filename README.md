@@ -7,9 +7,10 @@
 
 🔗 [Release Notes Sample](https://github.com/B-Mags/Studio-CAT-App-Documentation/blob/main/StudioCAT%20Release%20Notes%201.0.0.md) <br>
 🔗 Product Requirements Document Sample <br>
+🔗 User Guide <br> 
 🔗 [How-To Sample](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/HowToMasterAnAudiobook.md) <br>
 🔗 [User Persona](https://github.com/B-Mags/Studio-CAT-App-Documentation/blob/main/StudioCATUserPersona.md) <br> 
-🔗 User Guide
+
   
 
 <!---
