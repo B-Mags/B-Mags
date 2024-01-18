@@ -11,7 +11,6 @@
 🔗 [How-To Sample](https://github.com/B-Mags/Audio-Engineering-How-Tos/blob/main/HowToMasterAnAudiobook.md) <br>
 🔗 [User Persona](https://github.com/B-Mags/Studio-CAT-App-Documentation/blob/main/StudioCATUserPersona.md) <br> 
 
-  
 
 <!---
 B-Mags/B-Mags is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
